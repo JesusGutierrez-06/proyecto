@@ -1,0 +1,11 @@
+.table-color{
+    background-color: #00796b;
+    color: aliceblue;
+    text-align: left;
+  }
+.seleccionar .page-link{
+    z-index: 3;
+  color: #fff;
+  background-color: #00796b;
+  border-color: #00796b
+}
